@@ -28,3 +28,12 @@ TN_Wire CNC brings the advantages of an open source development:
 
 * cheap alternative to have a desktop machine in the FabLab
 
+# Specifications
+
+
+# Everything is 3D printed
+
+
+# Laser cutting
+
+
