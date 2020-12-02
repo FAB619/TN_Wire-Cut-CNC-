@@ -7,7 +7,7 @@
 
 Instead of bits or lasers, the main tool of this machine is a hot wire, or a special type of resistance wire which gets really hot when current flows through it. The hot wire melts or vaporizes the foam when passing through it and so we can precisely and easily get any shape we want.
 
-<div align="center"><img src="../media/IM1.jpg" width="100%"></div>
+<div align="center"><img src="../main/media/IM1.jpg" width="100%"></div>
 
 
 
